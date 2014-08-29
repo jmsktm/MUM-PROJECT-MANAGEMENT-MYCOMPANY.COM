@@ -1,0 +1,16 @@
+com.mandrill.clients.exception
+com.mandrill.clients.model
+com.mandrill.clients.model.response
+com.mandrill.clients.model.response.message
+com.mandrill.clients.model.response.tags
+com.mandrill.clients.model.response.templates
+com.mandrill.clients.model.response.urls
+com.mandrill.clients.model.response.users
+com.mandrill.clients.request
+com.mandrill.clients.util
+com.mycompany.interfaces
+com.mycompany.models
+com.mycompany.services
+com.mycompany.services.myfiance
+com.mycompany.services.paymentgateway
+com.mycompany.util
